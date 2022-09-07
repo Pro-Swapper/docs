@@ -21,7 +21,3 @@
 * [Getting Fortnite Unreal Engine Version](fortnite-modding/getting-fortnite-unreal-engine-version.md)
 * [Cosmetic Data Structures](fortnite-modding/cosmetic-data-structures/README.md)
   * [Emotes](fortnite-modding/cosmetic-data-structures/emotes.md)
-
-## Pro Swapper Music <a href="#pro-swapper-spotify" id="pro-swapper-spotify"></a>
-
-* [Tutorial](pro-swapper-spotify/tutorial.md)

@@ -9,7 +9,9 @@
 
 Before swapping anything go to Epic Games Launcher -> Fortnite -> Click the 3 dots -> Options -> **Uncheck** "High Resolution Textures"
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Make sure you have high resolution textures turned off before swapping</p></figcaption></figure>
+{% embed url="https://youtu.be/Ym-tYCkOUk0" %}
+Uninstalling High Resolution Textures on Fortnite
+{% endembed %}
 
 <figure><img src="../.gitbook/assets/_NEW_ Pro Swapper Lobby Season 3 Chapter 3 0-53 screenshot.png" alt=""><figcaption><p>You should be presented with this screen after completing the steps on Linkvertise</p></figcaption></figure>
 

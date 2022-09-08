@@ -12,4 +12,4 @@ Right click `FortniteClient-Win64-Shipping.exe` -> Properties -> Details
 
 The Product version is the Unreal Engine 4 Version which is 4.26.1
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)

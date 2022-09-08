@@ -3,6 +3,10 @@
 * [Pro Swapper Documentation](README.md)
 * [Discord](https://discord.gg/proswapper)
 
+## Pro Swapper Lobby
+
+* [How to install Pro Swapper Lobby](pro-swapper-lobby/how-to-install-pro-swapper-lobby.md)
+
 ## Pro Swapper
 
 * [What is Skin Swapping?](pro-swapper/what-is-skin-swapping.md)

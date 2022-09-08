@@ -16,4 +16,4 @@ If Fortnite is crashing / not opening you can try [verifying Fortnite](verifying
 When swapping the `OG Pump` you must swap it by itself without anything else or otherwise it will kick.
 {% endhint %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)

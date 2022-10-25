@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pro Swapper Documentation](README.md)
+* [In-Game vs Lobby](in-game-vs-lobby.md)
 * [Discord](https://discord.gg/proswapper)
 
 ## Pro Swapper Lobby

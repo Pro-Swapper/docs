@@ -4,6 +4,11 @@
 * [In-Game vs Lobby](in-game-vs-lobby.md)
 * [Discord](https://discord.gg/proswapper)
 
+## Lobby Bot
+
+* [Logging In](lobby-bot/logging-in.md)
+* [Using the dashboard on a mobile device](lobby-bot/using-the-dashboard-on-a-mobile-device.md)
+
 ## Pro Swapper Lobby
 
 * [How to install Pro Swapper Lobby](pro-swapper-lobby/how-to-install-pro-swapper-lobby.md)

@@ -14,7 +14,7 @@ There are 2 ways to verify Fortnite. You can either verify it from Pro Swapper o
 
 This will open [Epic Games Launcher](https://www.epicgames.com/store/en-US/download) and Fortnite will start verifying.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Click this before verifying Fortnite</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Click this before verifying Fortnite</p></figcaption></figure>
 
 The second way to Verify Fortnite is through Epic Games Launcher itself. Tutorial here:
 

@@ -20,10 +20,3 @@
 * [Swaps Not Applying](pro-swapper/swaps-not-applying.md)
 * [Fortnite Crashing/Kicking](pro-swapper/fortnite-crashing-kicking.md)
 * [Uninstalling Pro Swapper](pro-swapper/uninstalling-pro-swapper.md)
-
-## Fortnite Modding
-
-* [Introduction](fortnite-modding/fortnite-modding-intro.md)
-* [Getting Fortnite Unreal Engine Version](fortnite-modding/getting-fortnite-unreal-engine-version.md)
-* [Cosmetic Data Structures](fortnite-modding/cosmetic-data-structures/README.md)
-  * [Emotes](fortnite-modding/cosmetic-data-structures/emotes.md)

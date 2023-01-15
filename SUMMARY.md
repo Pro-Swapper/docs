@@ -14,12 +14,12 @@
 * [What is Skin Swapping?](pro-swapper/what-is-skin-swapping.md)
 * [Frequently Asked Questions for Pro Swapper](pro-swapper/faq.md)
 * [Verifying Fortnite](pro-swapper/verifying-fortnite.md)
+* [Unreal Engine Crash Message](pro-swapper/unreal-engine-crash-message.md)
 * [Swapper Not Opening](pro-swapper/swapper-not-opening.md)
 * [Swapping Emotes](pro-swapper/swapping-emotes.md)
 * [Swaps Not Applying](pro-swapper/swaps-not-applying.md)
 * [Fortnite Crashing/Kicking](pro-swapper/fortnite-crashing-kicking.md)
 * [Uninstalling Pro Swapper](pro-swapper/uninstalling-pro-swapper.md)
-* [Getting Pro Swapper Logs](pro-swapper/getting-pro-swapper-logs.md)
 
 ## Fortnite Modding
 

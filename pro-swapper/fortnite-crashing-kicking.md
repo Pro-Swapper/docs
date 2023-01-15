@@ -12,8 +12,4 @@ If Fortnite is crashing / not opening you can try [verifying Fortnite](verifying
 
 #### There is no real maximum numbers of items you can swap but it's good to keep it around 1-2, some items together are more likely to kick, you can try and experiment to see what kicks and doesn't kick.
 
-{% hint style="warning" %}
-When swapping the `OG Pump` you must swap it by itself without anything else or otherwise it will kick.
-{% endhint %}
-
 ![](<../.gitbook/assets/image (2) (1).png>)

@@ -1,21 +1,15 @@
 ---
-description: A guide on how to verify Fortnite.
+description: A guide on how to verify Fortnite after using Pro Swapper.
 ---
 
 # Verifying Fortnite
 
-Verifying Fortnite will revert any modified files in the paks folder to the original state. If there are any files in the paks folder that were **added** these files will not be removed.
+Verifying will bring your Fortnite to its original state like before you used the swapper.
 
-There are 2 ways to verify Fortnite. You can either verify it from Pro Swapper or verify it from Epic Games Launcher. Verifying Fortnite from Pro Swapper is more recommended so it resets all your settings of converted items.
+**Verifying Fortnite via Epic Games Launcher will not work when using Pro Swapper. It will not do anything.**
 
-1. Open Pro Swapper
+1. Open ProSwapper.Client
 2. Click `Settings`
-3. Click `Revert All Swaps`
+3. Click `Force Remove All Swaps`
 
-This will open [Epic Games Launcher](https://www.epicgames.com/store/en-US/download) and Fortnite will start verifying.
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Click this before verifying Fortnite</p></figcaption></figure>
-
-The second way to Verify Fortnite is through Epic Games Launcher itself. Tutorial here:
-
-{% embed url="https://youtu.be/Ni7eQxQhQr0" %}
+<figure><img src="../.gitbook/assets/brave_InpvjYsaEs (1).png" alt=""><figcaption></figcaption></figure>

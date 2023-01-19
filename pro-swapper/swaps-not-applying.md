@@ -14,4 +14,4 @@ If that doesn't work make sure your Fortnite paks folder location is correct. Th
 
 
 
-If this does not work you may have duplicate Pak files. This is a method other swappers use which can override your existing Fortnite game files. An easy way to fix it is to delete your `Paks` folder and [Verify Fortnite](verifying-fortnite.md)
+If this does not work you may have duplicate Pak files. This is a method other swappers use which can override your existing Fortnite game files. An easy way to fix it is to delete your `Paks` folder and [Verify Fortnite](https://youtu.be/jDfjQSbgDX0)

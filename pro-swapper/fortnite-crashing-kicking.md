@@ -12,4 +12,4 @@ If Fortnite is crashing / not opening you can try [verifying Fortnite](verifying
 
 #### There is no real maximum numbers of items you can swap but it's good to keep it around 1-2, some items together are more likely to kick, you can try and experiment to see what kicks and doesn't kick.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)

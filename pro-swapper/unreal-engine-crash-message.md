@@ -4,8 +4,8 @@ description: When Fortnite crashes right after swapping
 
 # Unreal Engine Crash Message
 
-Try swapping for a different skin, skins such as Arctic Adeline and Sled Ready Guff are common skins that always work.
+Fortnite crashes because of the item you **swap it with**. Try swapping your cosmetic for a different item. Arctic Adeline and Sled Ready Guff are common skins that always work.&#x20;
 
+Before swapping again it's recommend to go to **Settings** and press **Revert All Swaps**
 
-
-<figure><img src="https://lh4.googleusercontent.com/4fli59bYcNAEY_enjXRgYsB5TqGtJktDpXsOybkynJMujACdrxeSYMGJfD--W7VvWpV4IK0MA3D1rpru8Ov4GDinH920bD7I5Ki9ulOR020k0PchylMPv-pZ4MtswHSBDQAenfKeQJHi4KDO451qWpIk6Q8FIzcIgBVXM-0mkrG7NzTLS_V5J_U8VjJCiQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/yr8odo9d0sf81 (1).webp" alt=""><figcaption></figcaption></figure>
